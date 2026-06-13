@@ -1,0 +1,8 @@
+#homeHero {
+    display: flex;
+    flex-direction: row;
+    padding: 20px 60px;
+    min-height: 90vh;
+    width: 100%;
+    background-image: url('https://cdn.delightfulinsights.com/assets/images/delightfulinsights.avif');
+}

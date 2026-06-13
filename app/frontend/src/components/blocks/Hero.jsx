@@ -5,7 +5,7 @@ export default function Hero(props) {
 
     return(
         <>
-            <section id={`${page}Hero`} className="hero">
+            <section id={`${page}Hero`} className="hero style">
                 
             </section>
         </>

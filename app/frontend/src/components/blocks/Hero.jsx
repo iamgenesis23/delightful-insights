@@ -1,3 +1,5 @@
+import './Hero.module.css'
+
 export default function Hero(props) {
     const page = props.pageTitle;
 

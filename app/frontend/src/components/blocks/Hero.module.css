@@ -5,4 +5,6 @@
     min-height: 90vh;
     width: 100%;
     background-image: url('https://cdn.delightfulinsights.com/assets/images/delightfulinsights.avif');
+    background-size: cover;
+    background-position: center center;
 }

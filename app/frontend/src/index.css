@@ -1,0 +1,32 @@
+:root {
+    --primary-color: #00eaff;
+    --secondary-color: #ffffff;
+    --tertiary-color: #000000;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+#headerContainer {
+    display: flex;
+    flex-direction: column;
+    min-height: 112px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    min-width: 100%;
+}
+
+#headerTop {
+    display: flex;
+    flex-direction: row;
+    min-height: 32px;
+    width: 100%;
+    background-color: var(--tertiary-color);
+}
